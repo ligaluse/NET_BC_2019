@@ -8,19 +8,38 @@ namespace Day3
 {
     class UserProfile
     {
-        string FullName;
-        enum Gender
-        {
-            m,
-            f
-        }
-        DateTime dateOfBirth;
-    }
 
-    public static int CalculateAge(DateTime dateOfBirth)
-    {
-        int age = 0;
-        age = DateTime.Now.Year - dateOfBirth.Year;
-        return age;
+        public const char MALE = 'M';
+        public const char FEMALE = 'F';
+
+        enum Gender
+
+        {
+
+            Male,
+
+            Female
+
+        }
+        public string FullName { get; set; }
+        public Genders Gender { get; set; }
+
+        public DateTime BirthDate { get; set; }
+        public UserProfile(string fullName, DateTime birthDate, Genders gender)
+        {
+            FullName = fullName;
+            BirthDate = birthDate;
+            Gender = gender;
+        }
+
+        public int Age()
+        {
+            var age = (DateTime.Now - BirthDate).TotalDays;
+            return (int)age / 365;
+        }
     }
 }
+  
+
+
+        
