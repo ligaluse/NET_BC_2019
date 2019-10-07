@@ -29,9 +29,10 @@ namespace Day3
 
         public int Age()
         {
+            //te ir cits variants no googles
             var age = (DateTime.Now - BirthDate).TotalDays;
             return (int)age / 365;
-            //return 0;
+            
         }
     }
 }

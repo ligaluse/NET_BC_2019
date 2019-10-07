@@ -10,33 +10,47 @@ namespace Day3
     {
         static void Main(string[] args)
         {
-            UserList list = new UserList();
-            //1.cikliski vaicaa pievienot lietotajus
-            while (true)
+            try
             {
-                try
+                UserList list = new UserList();
+                //1.cikliski vaicaa pievienot lietotajus
+                while (true)
                 {
-                    //ievada vardu
-                    string name = GetText("enter your name: ");
-                    //ievada datumu (datetime.tryparse)
+                    try
+                    {
+                        //ievada vardu
+                        string name = GetText();
+                        //ievada datumu (datetime.tryparse)
 
-                    DateTime birthDate = GetDate("Enter your birth date (DD/MM/YYYY): ");
-                    //1.3.ievada dzimumu (enum.tryparse)
+                        DateTime birthDate = GetDate();
+                        //1.3.ievada dzimumu (enum.tryparse)
 
-                    UserProfile.Genders gender = GetGender("Enter your gender (Male/Female) : ");
-                    //izsauc lietotaja pievienoshanu ar augstakminetajaam vertibam
+                        UserProfile.Genders gender = GetGender();
+                        //izsauc lietotaja pievienoshanu ar augstakminetajaam vertibam
 
-                    list.Add(user);
+                        list.Add(name, gender, birthDate);
+                        Console.WriteLine("add another? (y/n): ");
+                        string input = Console.ReadLine().ToLower();
+                        if(input == "n")
+                        {
+                            break;
+                        }
+                    }
+                    catch (InputException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
                 }
-                catch (Exception)
-                {
-                    Console.WriteLine("Neparedzeta kluda!");
-                }
-
-                Console.Read();
-
             }
 
+            catch (Exception ex)
+            {
+                Console.WriteLine("unexpected error! {0}", ex.Message);
+            }
+
+            Console.Read();
+
+            }
 
             public static DateTime GetDate()
             {
@@ -86,6 +100,6 @@ namespace Day3
             }
         }
     }
-}
+
 
 //japievieno try catch
