@@ -8,7 +8,7 @@ namespace Day3
 {
     class InputException : Exception
     {
-        public InputException(string message) 
+        public InputException(string message)
             : base(message)
         {
 

@@ -9,17 +9,12 @@ namespace Day3
     class UserProfile
     {
 
-        public const char MALE = 'M';
-        public const char FEMALE = 'F';
-
-        enum Gender
+        public enum Genders
 
         {
-
             Male,
 
-            Female
-
+            Female     
         }
         public string FullName { get; set; }
         public Genders Gender { get; set; }
@@ -36,10 +31,7 @@ namespace Day3
         {
             var age = (DateTime.Now - BirthDate).TotalDays;
             return (int)age / 365;
+            //return 0;
         }
     }
 }
-  
-
-
-        
