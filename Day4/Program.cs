@@ -10,6 +10,10 @@ namespace Day4
     {
         static void Main(string[] args)
         {
+            Game game = new Game();
+            game.StartNewGame();
+            game.Loop();
+            Console.Read();
         }
     }
 }

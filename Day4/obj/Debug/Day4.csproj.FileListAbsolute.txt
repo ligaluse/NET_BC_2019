@@ -1,0 +1,9 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\obj\Debug\Day4.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\bin\Debug\Day4.exe.config
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\bin\Debug\Day4.exe
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\bin\Debug\Day4.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\bin\Debug\ConsoleHelpers.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\bin\Debug\ConsoleHelpers.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\obj\Debug\Day4.csproj.CopyComplete
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\obj\Debug\Day4.exe
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Day4\obj\Debug\Day4.pdb

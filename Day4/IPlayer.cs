@@ -8,6 +8,9 @@ namespace Day4
 {
     public interface IPlayer
     {
-        public int GuessNumber();
+        //intefeisaa fjas nav jaliek ne ar public, ne ar ko
+        int GuessNumber();
+        bool IsNumberGuessed(int number);
+        string GetName();
     }
 }
