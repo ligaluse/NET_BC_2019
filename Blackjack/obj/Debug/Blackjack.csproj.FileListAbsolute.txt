@@ -1,0 +1,9 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\bin\Debug\ConsoleHelpers.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\bin\Debug\ConsoleHelpers.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\Blackjack\obj\Debug\Blackjack.pdb
