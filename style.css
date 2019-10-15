@@ -1,0 +1,42 @@
+﻿body
+{
+    background : #5cfb1c;
+    color: white;
+    margin: 20px;
+    padding: 5px 6px 7px 8px;
+    border: 5px solid blue;
+    font-size: 25px;
+}
+div{
+    background: blue;
+}
+div.left {
+    float : left;
+    width: 20%;
+}
+div.right {
+    float: left;
+}
+table {
+    border : 1px solid black;
+}
+table td {
+    color: red;
+}
+span, div {
+    color : white;
+}
+#login {
+    background: black;
+    color: white;
+}
+span.blue{
+    color: blue;
+}
+.bold{
+    font-weight: bold;
+    color: yellow;
+}
+a:visited{
+    color: violet;
+}
