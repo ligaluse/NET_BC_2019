@@ -1,0 +1,15 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\obj\Debug\WebShop.Logic.Tests.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\WebShop.Logic.Tests.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\WebShop.Logic.Tests.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\WebShop.Logic.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\WebShop.Logic.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\obj\Debug\WebShop.Logic.Tests.csproj.CopyComplete
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\obj\Debug\WebShop.Logic.Tests.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic.Tests\obj\Debug\WebShop.Logic.Tests.pdb

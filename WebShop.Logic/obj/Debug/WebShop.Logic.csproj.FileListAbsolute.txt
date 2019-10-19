@@ -1,0 +1,5 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic\obj\Debug\WebShop.Logic.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic\bin\Debug\WebShop.Logic.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic\bin\Debug\WebShop.Logic.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic\obj\Debug\WebShop.Logic.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\WebShop.Logic\obj\Debug\WebShop.Logic.pdb
