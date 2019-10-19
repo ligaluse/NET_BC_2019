@@ -1,0 +1,15 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\LogicSample.Tests.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\LogicSample.Tests.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\LogicSample.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\LogicSample.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\obj\Debug\LogicSample.Tests.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\obj\Debug\LogicSample.Tests.csproj.CopyComplete
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\obj\Debug\LogicSample.Tests.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample.Tests\obj\Debug\LogicSample.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample\bin\Debug\LogicSample.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample\bin\Debug\LogicSample.pdb
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample\obj\Debug\LogicSample.csprojAssemblyReference.cache
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample\obj\Debug\LogicSample.dll
+C:\Users\Mārtiņš\Desktop\Aitisniks\aitisniks 2\LogicSample\obj\Debug\LogicSample.pdb
